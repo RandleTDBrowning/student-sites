@@ -8,4 +8,6 @@ Skillcrush website: http://skillcrush.com/
 
 Skillcrush on GitHub: https://github.com/skillcrush
 
+GitHub Pages: https://pages.github.com/
+
 :heart: :heart: :heart: :heart: :heart: :heart: 
